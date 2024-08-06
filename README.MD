@@ -7,6 +7,7 @@
 1. Клонируйте репозиторий:
     ```bash
     git clone https://github.com/poMaxim/test_de_1440.space.git
+    cd test_de_1440.space
     cd stations_project
     ```
 
