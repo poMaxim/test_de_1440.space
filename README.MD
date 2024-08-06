@@ -12,7 +12,7 @@
 
 2. Создайте виртуальное окружение и активируйте его:
     ```bash
-    python -m venv venv
+    python3 -m venv venv
     source venv/bin/activate 
     ```
 
